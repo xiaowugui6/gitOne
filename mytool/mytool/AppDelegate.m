@@ -23,7 +23,7 @@
     _tab.selectedViewController = _tab.viewControllers[0];
     self.window.rootViewController = _tab;
    
-    
+    NSLog(@"123");
    // [self fingerrecongnize];
     //禁止手机休眠
     //[UIApplication sharedApplication].idleTimerDisabled = YES;
