@@ -27,7 +27,7 @@
    // [self fingerrecongnize];
     //禁止手机休眠
     //[UIApplication sharedApplication].idleTimerDisabled = YES;
-    
+    NSLog(@"456");
     
     return YES;
 }
